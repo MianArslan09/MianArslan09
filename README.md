@@ -1,6 +1,6 @@
 Hi there 👋
 Arslan Ahmad 
-🌟 AI,Machine Learning and Data Science Enthusiast
+🌟Python Developer, AI & Data Science Enthusiast
 class Arslan_ahmad:  
 
 
