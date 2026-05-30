@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MianArslan09&show_icons=true&theme=radium&v=1" alt="Arslan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MianArslan09&theme=radium&hide_border=true" alt="Arslan's GitHub Streak" />
 </p>
