@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-rho-neon-79.vercel.app/api?username=MianArslan09&show_icons=true&theme=radium" alt="Arslan's GitHub Stats" />
+  <img src="https://github-readme-stats-rho-neon-79.vercel.app/api?username=MianArslan09&show_icons=true&theme=radium&v=2" alt="Arslan's GitHub Stats" />
 </p>
 
 <p align="center">
