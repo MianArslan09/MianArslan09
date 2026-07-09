@@ -2,16 +2,19 @@
   ⚙️  SETUP CHECKLIST
   1. This file must live in a PUBLIC repo named exactly "MianArslan09"
      (create MianArslan09/MianArslan09 if it doesn't exist yet) as README.md.
-  2. The DataXAi section below is intentionally left with placeholders — fill in
-     the real overview, architecture, tech stack, features, and links.
+  2. The DataXAi card below has placeholders — fill in the real description,
+     tech stack, features, and links.
   3. Double-check each project's GitHub link matches your actual repo name.
   4. The Contribution Snake needs a one-time GitHub Actions setup — instructions
-     and the workflow file are included in that section below.
+     and the workflow file are in that section below.
+  Note: Trophies and a 24-badge "Repository Showcase" were intentionally left
+  out of this version — the trophy service is unreliable right now, and the
+  showcase mostly repeated the Tech Stack / Current Focus sections below.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Muhammad%20Arslan%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Applied%20AI%2C%20ML%20%26%20Backend%20Systems&descAlignY=55&descSize=18" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=Muhammad%20Arslan%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Applied%20AI%2C%20ML%20%26%20Backend%20Systems&descAlignY=55&descSize=18" width="100%" alt="header banner"/>
 
 <br/>
 
@@ -38,36 +41,26 @@
 
 ---
 
-## 🧑‍💻 Professional Introduction
+## 🧑‍💻 About Me
 
-I build software that turns data into decisions and research into working systems — from FastAPI backends to machine learning pipelines. I'm completing a BS in Software Engineering at NUML, building production-style AI and backend projects alongside internship experience across MarTech, Data Science, and Data Analysis.
-
-## 🧾 About Me
+I build software that turns data into decisions and research into working systems — from FastAPI backends to machine learning pipelines.
 
 - 🎓 BS Software Engineering student at **National University of Modern Languages (NUML)** — *2023–2027* &nbsp;|&nbsp; GPA: **3.8 / 4.0**
 - 📍 Based in Pakistan
 - 🧠 Focused on **Artificial Intelligence, Machine Learning, Backend Engineering & Intelligent Systems**
-- 🔍 Currently going deep on **LLMs, Retrieval-Augmented Generation, and AI Agents**
 - 💼 3 internships spanning **MarTech, Data Science, and Data Analysis**
 - 📚 4× certified — **IBM, Google, and EC-Council**
 - 📫 Open to **AI/ML Engineer, Data Scientist, and Backend Developer** roles
-
----
 
 ## 🧭 Engineering Philosophy
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Maintainable-161B22?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scalable-161B22?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Well--Documented-161B22?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Production--Ready-161B22?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Measurable-161B22?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cleanly%20Architected-161B22?style=for-the-badge&logoColor=white"/>
+**Maintainable** · **Scalable** · **Well-Documented** · **Production-Ready** · **Measurable** · **Cleanly Architected**
 
-<br/><br/>
+<br/>
 
-<i>Engineering over hype &nbsp;•&nbsp; Architecture over shortcuts &nbsp;•&nbsp; Documentation over assumptions &nbsp;•&nbsp; Continuous learning over perfection</i>
+<i>Engineering over hype · Architecture over shortcuts · Documentation over assumptions · Continuous learning over perfection</i>
 
 </div>
 
@@ -94,24 +87,11 @@ I build software that turns data into decisions and research into working system
 
 ### 🧠 DataXAi &nbsp; <sub>🏁 FLAGSHIP PROJECT</sub>
 
-*[One-sentence description of what DataXAi does and who it's for — replace this line]*
+*[Add a one-sentence description of what DataXAi does and who it's for]*
 
-**Overview** — [2–3 sentences on the problem DataXAi solves and how it works — replace this]
+**Tech Stack:** [Add tech stack] &nbsp;&nbsp;|&nbsp;&nbsp; **Architecture:** [e.g. Ingestion → Processing → Model → API → Client]
 
-**Architecture** — [Describe the high-level system design, e.g. Data Ingestion → Processing → Model → API → Client. Replace with your real architecture, or embed a diagram image from your repo]
-
-**Tech Stack:** [Add tech stack — e.g. Python · FastAPI · Scikit-Learn · PostgreSQL]
-
-**Key Features**
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
-
-**Future Scope**
-- [Planned improvement 1]
-- [Planned improvement 2]
-
-**Screenshots:** *[Add a screenshot or demo GIF here once available]*
+**Key Features:** [Feature 1] · [Feature 2] · [Feature 3]
 
 [![Repo](https://img.shields.io/badge/View-Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MianArslan09/DataXAi)
 [![Docs](https://img.shields.io/badge/Documentation-Add%20Link-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white)](#)
@@ -137,7 +117,7 @@ Enterprise multilingual sentiment analysis platform that classifies customer rev
 <td width="50%" valign="top">
 
 ### 🗺️ Machine Learning Roadmap
-Public repository documenting my machine learning journey — concepts, notes, and mini-implementations organized topic by topic, built and shared openly as I learn.
+Public repository documenting my machine learning journey — concepts, notes, and mini-implementations organized topic by topic.
 
 **Tech:** Python · Jupyter Notebook · Markdown
 
@@ -149,7 +129,7 @@ Public repository documenting my machine learning journey — concepts, notes, a
 <td width="50%" valign="top">
 
 ### 💳 Credit Card Fraud Detection System
-Machine learning system trained to detect fraudulent credit card transactions, deployed with an interactive Streamlit dashboard for real-time predictions.
+Machine learning system trained to detect fraudulent credit card transactions, deployed with an interactive Streamlit dashboard.
 
 **Tech:** Machine Learning · Streamlit · Python
 
@@ -159,7 +139,7 @@ Machine learning system trained to detect fraudulent credit card transactions, d
 <td width="50%" valign="top">
 
 ### 🎓 Advanced E-Learning Platform
-Full-featured e-learning platform with course management, progress tracking, and an interactive, data-backed dashboard.
+Full-featured e-learning platform with course management, progress tracking, and an interactive dashboard.
 
 **Tech:** Streamlit · MySQL · Python
 
@@ -180,24 +160,6 @@ Network security automation tool that monitors traffic in real time and dynamica
 </td>
 </tr>
 </table>
-
----
-
-## 🗂️ Repository Showcase
-
-<div align="center">
-
-**Machine Learning Track**
-
-<img src="https://img.shields.io/badge/-Python-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-Statistics-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-EDA-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-Feature%20Engineering-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-Regression-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-Classification-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-Clustering-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-Ensemble%20Learning-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-Recommendation%20Systems-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-NLP-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-Deep%20Learning-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-Computer%20Vision-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-Time%20Series-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-Reinforcement%20Learning-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-MLOps-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-LLMs-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-RAG-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-AI%20Agents-2b2b2b?style=flat-square"/>
-
-**Engineering Track**
-
-<img src="https://img.shields.io/badge/-FastAPI-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-Django-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-Flask-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-System%20Design-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-Data%20Engineering-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-Research-2b2b2b?style=flat-square"/> <img src="https://img.shields.io/badge/-Open%20Source-2b2b2b?style=flat-square"/>
-
-*Tracks I organize my learning and repositories around — the projects above are the flagship examples of each.*
-
-</div>
 
 ---
 
@@ -252,14 +214,11 @@ Network security automation tool that monitors traffic in real time and dynamica
 <img src="https://img.shields.io/badge/NLP-7A5FFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Analysis-7A5FFF?style=for-the-badge"/>
 
-<h4>Backend Development</h4>
+<h4>Backend & Mobile</h4>
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-
-<h4>Mobile</h4>
-
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 <h4>Databases</h4>
@@ -283,28 +242,21 @@ Network security automation tool that monitors traffic in real time and dynamica
 
 </div>
 
-## 🔬 Research Interests
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Large%20Language%20Models-7A5FFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation-7A5FFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-7A5FFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Applied%20NLP-7A5FFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MLOps-7A5FFF?style=for-the-badge"/>
-
-</div>
-
-## 🌍 Open Source Philosophy
-
-I treat every public repository as a product, not a submission — clear READMEs, sensible folder structure, and documentation written for someone who has never met me. Code is only finished when someone else could pick it up and understand it without asking me a question.
-
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Overview
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MianArslan09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="65%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MianArslan09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="58%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MianArslan09&layout=compact&theme=tokyonight&hide_border=true" width="36%" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=MianArslan09&theme=tokyonight&hide_border=true" width="65%" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MianArslan09&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph"/>
 </div>
 
 ## 🐍 Contribution Snake
@@ -320,7 +272,7 @@ I treat every public repository as a product, not a submission — clear READMEs
 </div>
 
 <details>
-<summary><b>⚙️ One-time setup required — click to expand (this is the "workable" part)</b></summary>
+<summary><b>⚙️ One-time setup required — click to expand</b></summary>
 <br/>
 
 This image doesn't exist until a GitHub Action generates it. In your **MianArslan09/MianArslan09** repo, create **`.github/workflows/snake.yml`** with the following, exactly:
@@ -360,37 +312,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Commit the file, open the **Actions** tab, select **generate animated snake**, and click **Run workflow** once so you don't have to wait for the first scheduled run. When it finishes, an `output` branch appears with the generated SVGs, and the image above will render automatically from then on (refreshed every 6 hours).
+Commit the file, open the **Actions** tab, and click **Run workflow** once so you don't have to wait for the first scheduled run. An `output` branch will appear with the generated SVGs, and the image above renders automatically from then on.
 
 </details>
 
-## 📈 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MianArslan09&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph"/>
-</div>
-
-## 🔥 GitHub Streak
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=MianArslan09&theme=tokyonight&hide_border=true" width="65%" alt="GitHub Streak"/>
-</div>
-
-## 🥇 Top Languages
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MianArslan09&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MianArslan09&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
-</div>
-
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Achievements
 
 | Certification | Issuer |
 |:--|:--|
@@ -399,35 +327,23 @@ Commit the file, open the **Actions** tab, select **generate animated snake**, a
 | Data Science with Python | ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) |
 | Certified Ethical Hacker (CEH) Training | ![EC--Council](https://img.shields.io/badge/EC--Council-CC2229?style=flat-square) |
 
-## 🏅 Achievements
-
 - 🎓 Maintaining a **3.8 / 4.0 GPA** in BS Software Engineering at NUML
 - 💼 Completed **3 internships** spanning MarTech, Data Science, and Data Analysis
-- 📜 Earned **4 professional certifications** from IBM, Google, and EC-Council
 - 🚀 Designed and shipped **6 AI, ML, and full-stack projects**, including a flagship product build
-- 🔐 Bridging AI development with security awareness through CEH training
 
-## 🗺️ 2026 Learning Roadmap
+## 🗺️ Roadmap & Goals for 2026
 
-- [x] Python Programming & Data Structures
-- [x] Machine Learning Fundamentals (Scikit-Learn)
-- [x] Backend Development with Flask & FastAPI
-- [x] Ethical Hacking Foundations (CEH)
-- [ ] Large Language Models & Prompt Engineering
-- [ ] Retrieval-Augmented Generation (RAG) Systems
-- [ ] AI Agents & Agentic Workflows
+**Built on:** Python & Data Structures · Machine Learning Fundamentals · Flask & FastAPI · Ethical Hacking (CEH)
+
+**Learning next:**
+- [ ] LLMs, RAG & AI Agents
 - [ ] Deep Learning (TensorFlow / PyTorch)
-- [ ] MLOps & Model Deployment
-- [ ] Cloud Platforms (AWS / Azure / GCP)
-- [ ] System Design for Scalable Applications
+- [ ] MLOps & Cloud Deployment (AWS / Azure / GCP)
 
-## 🎯 Goals for 2026
-
-- [ ] Ship DataXAi as a public, production-style deployment
-- [ ] Contribute to an open-source Machine Learning or LLM-tooling project
-- [ ] Build and deploy a full Retrieval-Augmented Generation (RAG) application
+**2026 goals:**
+- [ ] Ship DataXAi to a public, production-style deployment
+- [ ] Contribute to an open-source ML or LLM-tooling project
 - [ ] Publish a technical write-up on an ML or backend engineering topic
-- [ ] Complete a Deep Learning specialization or certification
 
 ---
 
@@ -449,6 +365,6 @@ Commit the file, open the **Actions** tab, select **generate animated snake**, a
 
 ⭐️ Thanks for stopping by — feel free to explore my repositories and reach out!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%" alt="footer banner"/>
 
 </div>
