@@ -22,8 +22,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=MianArslan09&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/MianArslan09?style=for-the-badge&color=58A6FF&logo=github&logoColor=white&label=FOLLOWERS" alt="GitHub Followers"/>
 <img src="https://img.shields.io/badge/📍-Pakistan-58A6FF?style=for-the-badge" alt="Location"/>
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20AI%2FML%20%26%20Backend%20Roles-brightgreen?style=for-the-badge" alt="Open to Opportunities"/>
 
