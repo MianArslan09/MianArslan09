@@ -1,16 +1,4 @@
-<!--
-  ⚙️  SETUP CHECKLIST
-  1. This file must live in a PUBLIC repo named exactly "MianArslan09"
-     (create MianArslan09/MianArslan09 if it doesn't exist yet) as README.md.
-  2. The DataXAi card below has placeholders — fill in the real description,
-     tech stack, features, and links.
-  3. Double-check each project's GitHub link matches your actual repo name.
-  4. The Contribution Snake needs a one-time GitHub Actions setup — instructions
-     and the workflow file are in that section below.
-  Note: Trophies and a 24-badge "Repository Showcase" were intentionally left
-  out of this version — the trophy service is unreliable right now, and the
-  showcase mostly repeated the Tech Stack / Current Focus sections below.
--->
+
 
 <div align="center">
 
