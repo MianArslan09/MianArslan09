@@ -21,7 +21,7 @@
 
 <div align="center">
 
-> ### 💡 "I engineer intelligent software that transforms complex data into scalable, production-ready AI systems."
+> ### 💡 "I engineer intelligent software that transforms complex data into scalable, production-ready AI systems based on real world data."
 
 </div>
 
