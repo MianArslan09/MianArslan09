@@ -27,7 +27,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 All About Me
 
 I build software that turns data into decisions and research into working systems — from FastAPI backends to machine learning pipelines.
 
@@ -152,7 +152,7 @@ Network security automation tool that monitors traffic in real time and dynamica
 ## 💼 Experience Timeline
 
 <details open>
-<summary><b>🟢 MarTech Intern — Optimum Tech</b> &nbsp;|&nbsp; <i>Jan 2026 – Mar 2026</i></summary>
+<summary><b>🟢 MarTech Intern Optimum Tech</b> &nbsp;|&nbsp; <i>Jan 2026 – Mar 2026</i></summary>
 <br/>
 
 - Contributed to marketing technology workflows, blending data analysis with campaign automation
@@ -161,7 +161,7 @@ Network security automation tool that monitors traffic in real time and dynamica
 </details>
 
 <details>
-<summary><b>🔵 Data Science Intern — CodeAlpha</b> &nbsp;|&nbsp; <i>Jul 2025 – Dec 2025</i></summary>
+<summary><b>🔵 Data Science Intern CodeAlpha</b> &nbsp;|&nbsp; <i>Jul 2025 – Dec 2025</i></summary>
 <br/>
 
 - Built and evaluated machine learning models on real-world datasets
@@ -170,7 +170,7 @@ Network security automation tool that monitors traffic in real time and dynamica
 </details>
 
 <details>
-<summary><b>🟣 Junior Data Analyst — Spark IT Institute</b> &nbsp;|&nbsp; <i>Jul 2024 – Sep 2024</i></summary>
+<summary><b>🟣 Junior Data Analyst Spark IT Institute</b> &nbsp;|&nbsp; <i>Jul 2024 – Sep 2024</i></summary>
 <br/>
 
 - Analyzed datasets to uncover trends and generate actionable business insights
@@ -258,7 +258,7 @@ Network security automation tool that monitors traffic in real time and dynamica
 </div>
 
 <details>
-<summary><b>⚙️ One-time setup required — click to expand</b></summary>
+<summary><b>⚙️ One-time setup required click to expand</b></summary>
 <br/>
 
 This image doesn't exist until a GitHub Action generates it. In your **MianArslan09/MianArslan09** repo, create **`.github/workflows/snake.yml`** with the following, exactly:
@@ -347,9 +347,9 @@ Commit the file, open the **Actions** tab, and click **Run workflow** once so yo
 
 <div align="center">
 
-### 💭 *Always building, always learning — let's create something intelligent together.*
+### 💭 *Always building, always learning let's create something intelligent together.*
 
-⭐️ Thanks for stopping by — feel free to explore my repositories and reach out!
+⭐️ Thanks for stopping by feel free to explore my repositories and reach out!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%" alt="footer banner"/>
 
