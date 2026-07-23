@@ -46,7 +46,7 @@ I build software that turns data into decisions and research into working system
 
 <br/>
 
-<i>Engineering over hype and nocoode pholisophy · Architecture over shortcuts · Documentation over assumptions · Continuous learning over perfection</i>
+<i>Engineering over hype · Architecture over shortcuts · Documentation over assumptions · Continuous learning over perfection</i>
 
 </div>
 
