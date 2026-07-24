@@ -1,13 +1,11 @@
 <div align="center">
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=Muhammad%20Arslan%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Backend%20Developer&descAlignY=55&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=Muhammad%20Arslan%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Backend%20Developer&descAlignY=55&descSize=20"
     width="100%"
     alt="Muhammad Arslan Ahmad Header Banner"
   />
 </p>
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=Muhammad%20Arslan%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%Data%20Scientist%20%7C%20Applied%20AI%2C%20ML%20and%20Backend%20Systems&descAlignY=55&descSize=18" width="100%" alt="header banner"/> -->
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=680&height=50&lines=Software+Engineer+%7C+Applied+AI+%26+Backend+Systems;I+Engineer+Intelligent%2C+Scalable+Systems;Machine+Learning%2C+LLMs%2C+RAG+%26+AI+Agents;Turning+Data+Into+Production-Ready+Software;Open+to+AI%2FML+%26+Backend+Engineering+Roles)](https://git.io/typing-svg)
