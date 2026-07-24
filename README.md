@@ -31,15 +31,13 @@
 </p>
 
 <br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=950&height=50&lines=Software+Engineer+%7C+Applied+AI+%26+Backend+Systems;I+Engineer+Intelligent%2C+Scalable+Systems;Machine+Learning%2C+LLMs%2C+RAG+%26+AI+Agents;Turning+Data+Into+Production-Ready+Software;Open+to+AI%2FML+%26+Backend+Engineering+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=1000&height=50&lines=Software+Engineer+%7C+Applied+AI+%26+Backend+Systems;I+Engineer+Intelligent%2C+Scalable+Systems;Machine+Learning%2C+LLMs%2C+RAG+%26+AI+Agents;Turning+Data+Into+Production-Ready+Software;Open+to+AI%2FML+%26+Backend+Engineering+Roles)](https://git.io/typing-svg)
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Location-Pakistan-58A6FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20AI%2FML%20%26%20Backend%20Roles-brightgreen?style=for-the-badge" alt="Open to Opportunities"/>
-
 </div>
 
 ---
@@ -57,7 +55,7 @@
 I build software that turns data into decisions and research into working systems — from FastAPI backends to machine learning pipelines.
 
 - 🎓 BS Software Engineering student at **National University of Modern Languages (NUML)** — *2023–2027* &nbsp;|&nbsp; GPA: **3.8 / 4.0**
-- 📍 Based in Pakistan
+- 📍 Pakistan
 - 🧠 Focused on **Artificial Intelligence, Machine Learning, Backend Engineering & Intelligent Systems**
 - 💼 3 internships spanning **MarTech, Data Science, and Data Analysis**
 - 📚 4× certified — **IBM, Google, and EC-Council**
@@ -75,7 +73,7 @@ I build software that turns data into decisions and research into working system
 
 </div>
 
-## 🎯 Current Focus
+## Current Focus
 
 ```text
 2026 Focus Areas
@@ -90,19 +88,19 @@ I build software that turns data into decisions and research into working system
 
 ---
 
-## 🚀 Featured Products
+## Featured Products
 
 <table width="100%">
 <tr>
 <td width="100%" valign="top">
 
-### 🧠 DataXAi &nbsp; <sub>🏁 FLAGSHIP PROJECT</sub>
+### DataXAi &nbsp; <sub>🏁 FLAGSHIP PROJECT</sub>
 
-*[Add a one-sentence description of what DataXAi does and who it's for]*
+*Auto-Heal ETL Pipelines for pakisani E-comerece industry and predective analytics system *
 
-**Tech Stack:** [Add tech stack] &nbsp;&nbsp;|&nbsp;&nbsp; **Architecture:** [e.g. Ingestion → Processing → Model → API → Client]
+**Tech Stack:** Pyhton ML Data Science Docker &nbsp;&nbsp;|&nbsp;&nbsp; **Architecture:** e.g. Ingestion → Processing → Model → API → Client
 
-**Key Features:** [Feature 1] · [Feature 2] · [Feature 3]
+**Key Features:** Auto Healing · Dual Layer Validation of Data · Predective analysis CLV and Demand Forcasting 
 
 [![Repo](https://img.shields.io/badge/View-Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MianArslan09/DataXAi)
 [![Docs](https://img.shields.io/badge/Documentation-Add%20Link-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white)](#)
