@@ -49,7 +49,7 @@ I build software that turns data into decisions and research into working system
 **Maintainable** · **Scalable** · **Well-Documented** · **Production-Ready** · **Measurable** · **Cleanly Architected**
 
 <br/>
-<i>Engineering over hype · Architecture over shortcuts · Documentation over assumptions · Continuous learning over perfection</i>
+<p>Engineering over hype · Architecture over shortcuts · Documentation over assumptions · Continuous learning over perfection</p>
 </div>
 
 ## 🎯 Current Focus
