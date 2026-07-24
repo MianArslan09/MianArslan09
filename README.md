@@ -19,31 +19,7 @@
 
 <br/>
 
---- 
-<!-- <div align="center">
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=Muhammad%20Arslan%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Backend%20Developer&descAlignY=55&descSize=20"
-    width="100%"
-    alt="Muhammad Arslan Ahmad Header Banner"
-  />
-</p>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=950&height=50&lines=Software+Engineer+%7C+Applied+AI+%26+Backend+Systems;I+Engineer+Intelligent%2C+Scalable+Systems;Machine+Learning%2C+LLMs%2C+RAG+%26+AI+Agents;Turning+Data+Into+Production-Ready+Software;Open+to+AI%2FML+%26+Backend+Engineering+Roles)](https://git.io/typing-svg)
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📍-Pakistan-58A6FF?style=for-the-badge" alt="Location"/>
-
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20AI%2FML%20%26%20Backend%20Roles-brightgreen?style=for-the-badge" alt="Open to Opportunities"/>
-
-</div>
-
 ---
-
 
 <div align="center">
 
@@ -51,7 +27,7 @@
 
 </div>
 
---- -->
+---
 
 ## 🧑‍💻 All About Me
 
@@ -60,7 +36,7 @@ I build software that turns data into decisions and research into working system
 - 🎓 BS Software Engineering student at **National University of Modern Languages (NUML)** — *2023–2027* &nbsp;|&nbsp; GPA: **3.8 / 4.0**
 - 📍 Based in Pakistan
 - 🧠 Focused on **Artificial Intelligence, Machine Learning, Backend Engineering & Intelligent Systems**
-- 💼 3 internships spanning **MarTech, Data Science, and Data Analysis**, plus freelance **Django development & data analysis** on Fiverr
+- 💼 3 internships spanning **MarTech, Data Science, and Data Analysis**
 - 📚 4× certified — **IBM, Google, and EC-Council**
 - 📫 Open to **AI/ML Engineer, Data Scientist, and Backend Developer** roles
 
@@ -95,10 +71,31 @@ I build software that turns data into decisions and research into working system
 
 <table width="100%">
 <tr>
+<td width="100%" valign="top">
+
+### 🧠 DataXAi &nbsp; <sub>🏁 FLAGSHIP PROJECT</sub>
+
+*Auto_Heal ETL pipelines for Pakistani E-Comerece industry and predective analyics system *
+
+**Tech Stack:** python ML Data Science Docker  &nbsp;&nbsp;|&nbsp;&nbsp; **Architecture:** e.g. Ingestion → Processing → Model → API → Client
+
+**Key Features:** Auto_Healing Engine · 2 Layer Data validation · Predective dashboard CLV and Demand Forcasting 
+
+[![Repo](https://img.shields.io/badge/View-Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MianArslan09/DataXAi)
+[![Docs](https://img.shields.io/badge/Documentation-Add%20Link-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
 <td width="50%" valign="top">
 
 ### 🗣️ ReviewLens
-Full-stack sentiment analysis system that scrapes and classifies live Daraz.pk product reviews in real time, with an NLP pipeline spanning TF-IDF/LinearSVC through a fine-tuned DistilBERT model.
+Enterprise multilingual sentiment analysis platform that classifies customer reviews across languages in real time.
 
 **Tech:** FastAPI · NLP · Machine Learning · Flutter
 
@@ -130,7 +127,7 @@ Machine learning system trained to detect fraudulent credit card transactions, d
 <td width="50%" valign="top">
 
 ### 🎓 Advanced E-Learning Platform
-Database-driven e-learning platform with a Streamlit interface for course content delivery, built on a MySQL backend.
+Full-featured e-learning platform with course management, progress tracking, and an interactive dashboard.
 
 **Tech:** Streamlit · MySQL · Python
 
@@ -142,33 +139,11 @@ Database-driven e-learning platform with a Streamlit interface for course conten
 <td colspan="2" valign="top">
 
 ### 🛡️ Linux IP Blocking & Monitoring System
-Linux network security tool that automates IP blocking/unblocking via iptables, wrapped in a Python automation layer with a Streamlit GUI and visualizations of blocked-IP activity.
+Network security automation tool that monitors traffic in real time and dynamically blocks malicious IPs using Linux firewall rules.
 
 **Tech:** Python · Linux · Firewall Automation
 
 [![Repo](https://img.shields.io/badge/View-Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MianArslan09/Linux-IP-Blocking-Monitoring-System)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏋️ GYM Mania
-Desktop application for gym owners to manage memberships, scheduling, and daily operations through a native GUI.
-
-**Tech:** Java · Swing · AWT
-
-[![Repo](https://img.shields.io/badge/View-Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MianArslan09/GYM-Mania)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🌐 Personal Portfolio
-Personal developer portfolio built with Django templating, featuring a dark glassmorphic UI, an interactive Three.js particle canvas, and Swiper.js sliders.
-
-**Tech:** Django · Three.js · Swiper.js
-
-[![Live Site](https://img.shields.io/badge/View-Live%20Site-58A6FF?style=for-the-badge&logo=render&logoColor=white)](https://arslanahmad-portfolio.onrender.com)
 
 </td>
 </tr>
@@ -179,15 +154,6 @@ Personal developer portfolio built with Django templating, featuring a dark glas
 ## 💼 Experience Timeline
 
 <details open>
-<summary><b>🟡 Freelance Data &amp; Django Developer Self-Employed (Fiverr)</b> &nbsp;|&nbsp; <i>[Start Date] – Present</i></summary>
-<br/>
-
-- Deliver exploratory data analysis (EDA) and customized, data-driven solutions for freelance clients
-- Provide end-to-end Django web development services, from backend architecture through deployment
-
-</details>
-
-<details>
 <summary><b>🟢 MarTech Intern Optimum Tech</b> &nbsp;|&nbsp; <i>Jan 2026 – Mar 2026</i></summary>
 <br/>
 
@@ -242,7 +208,6 @@ Personal developer portfolio built with Django templating, featuring a dark glas
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
 
 <h4>Databases</h4>
 
@@ -352,7 +317,7 @@ Commit the file, open the **Actions** tab, and click **Run workflow** once so yo
 
 - 🎓 Maintaining a **3.8 / 4.0 GPA** in BS Software Engineering at NUML
 - 💼 Completed **3 internships** spanning MarTech, Data Science, and Data Analysis
-- 🚀 Designed and shipped **7 AI, ML, and full-stack projects**, spanning sentiment analysis, fraud detection, network security, and full-stack web development
+- 🚀 Designed and shipped **6 AI, ML, and full-stack projects**, including a flagship product build
 
 ## 🗺️ Roadmap & Goals for 2026
 
@@ -375,7 +340,7 @@ Commit the file, open the **Actions** tab, and click **Run workflow** once so yo
 <div align="center">
 
 <a href="mailto:developer.arslanahmad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/m-arslan-ahmad-441b36349/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/-arslan-ahmad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/MianArslan09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
