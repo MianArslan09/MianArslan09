@@ -1,6 +1,12 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=Muhammad%20Arslan%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C% Data%20Scientist%20%7C%20Applied%20AI%2C%20ML%20and%20Backend%20Systems&descAlignY=55&descSize=18" width="100%" alt="header banner"/>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=Muhammad%20Arslan%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Backend%20Developer&descAlignY=55&descSize=18"
+    width="100%"
+    alt="Muhammad Arslan Ahmad Header Banner"
+  />
+</p>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=Muhammad%20Arslan%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%Data%20Scientist%20%7C%20Applied%20AI%2C%20ML%20and%20Backend%20Systems&descAlignY=55&descSize=18" width="100%" alt="header banner"/> -->
 
 <br/>
 
