@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=Muhammad%20Arslan%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Backend%20Developer&descAlignY=55&descSize=20"
@@ -19,8 +19,8 @@
 
 <br/>
 
---- -->
-<div align="center">
+--- 
+<!-- <div align="center">
 
 <p align="center">
   <img
@@ -51,7 +51,7 @@
 
 </div>
 
----
+--- -->
 
 ## 🧑‍💻 All About Me
 
