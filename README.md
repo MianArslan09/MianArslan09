@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=Muhammad%20Arslan%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Backend%20Developer&descAlignY=55&descSize=20"
@@ -18,6 +18,29 @@
 </div>
 
 <br/>
+
+--- -->
+<div align="center">
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=Muhammad%20Arslan%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Backend%20Developer&descAlignY=55&descSize=20"
+    width="100%"
+    alt="Muhammad Arslan Ahmad Header Banner"
+  />
+</p>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=950&height=50&lines=Software+Engineer+%7C+Applied+AI+%26+Backend+Systems;I+Engineer+Intelligent%2C+Scalable+Systems;Machine+Learning%2C+LLMs%2C+RAG+%26+AI+Agents;Turning+Data+Into+Production-Ready+Software;Open+to+AI%2FML+%26+Backend+Engineering+Roles)](https://git.io/typing-svg)
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Location-Pakistan-58A6FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20AI%2FML%20%26%20Backend%20Roles-brightgreen?style=for-the-badge" alt="Open to Opportunities"/>
+
+</div>
 
 ---
 
