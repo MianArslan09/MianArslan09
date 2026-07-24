@@ -40,6 +40,8 @@ I build software that turns data into decisions and research into working system
 - 📚 4× certified — **IBM, Google, and EC-Council**
 - 📫 Open to **AI/ML Engineer, Data Scientist, and Backend Developer** roles
 
+
+
 ## 🧭 Engineering Philosophy
 
 <div align="center">
@@ -47,9 +49,7 @@ I build software that turns data into decisions and research into working system
 **Maintainable** · **Scalable** · **Well-Documented** · **Production-Ready** · **Measurable** · **Cleanly Architected**
 
 <br/>
-
 <i>Engineering over hype · Architecture over shortcuts · Documentation over assumptions · Continuous learning over perfection</i>
-
 </div>
 
 ## 🎯 Current Focus
@@ -67,7 +67,7 @@ I build software that turns data into decisions and research into working system
 
 ---
 
-## 🚀 Featured Products
+## Featured Products
 
 <table width="100%">
 <tr>
