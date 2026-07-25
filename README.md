@@ -50,7 +50,7 @@ I build software that turns data into decisions and research into working system
 <p>Engineering over hype · Architecture over shortcuts · Documentation over assumptions · Continuous learning over perfection</p>
 </div>
 
-## 🎯 Current Focus
+## Current Focus
 
 ```text
 2026 Focus Areas
@@ -65,7 +65,7 @@ I build software that turns data into decisions and research into working system
 
 ---
 
-## Featured Products
+## Featured Products Developed 
 
 <table width="100%">
 <tr>
@@ -92,7 +92,7 @@ I build software that turns data into decisions and research into working system
 <tr>
 <td width="50%" valign="top">
 
-### 🗣️ ReviewLens
+### 🗣️ ReviewLens Sentimental Analysis
 Enterprise multilingual sentiment analysis platform that classifies customer reviews across languages in real time.
 
 **Tech:** FastAPI · NLP · Machine Learning · Flutter
