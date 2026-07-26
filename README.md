@@ -71,7 +71,7 @@ I build software that turns data into decisions and research into working system
 <tr>
 <td width="100%" valign="top">
 
-### 🧠 DataXAi &nbsp; <sub>🏁 FLAGSHIP PROJECT</sub>
+### DataXAi &nbsp; <sub>🏁 FLAGSHIP PROJECT</sub>
 
 *Auto_Heal ETL pipelines for Pakistani E-Comerece industry and predective analyics system *
 
@@ -304,7 +304,7 @@ Commit the file, open the **Actions** tab, and click **Run workflow** once so yo
 
 ---
 
-## 📜 Certifications & Achievements
+## Certifications & Achievements
 
 | Certification | Issuer |
 |:--|:--|
@@ -333,7 +333,7 @@ Commit the file, open the **Actions** tab, and click **Run workflow** once so yo
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
