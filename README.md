@@ -29,7 +29,7 @@
 
 ---
 
-## 🧑‍💻 All About Me
+## All About Me
 
 I build software that turns data into decisions and research into working systems — from FastAPI backends to machine learning pipelines.
 
