@@ -23,7 +23,7 @@
 
 <div align="center">
 
-> ### 💡 "I engineer intelligent software that transforms complex data into scalable, production-ready AI systems based on real world data."
+> ### "I engineer intelligent software that transforms complex data into scalable, production-ready AI systems based on real world data and produce insightful predictions."
 
 </div>
 
@@ -42,7 +42,7 @@ I build software that turns data into decisions and research into working system
 
 
 
-## 🧭 Engineering Philosophy
+## Engineering Philosophy
 
 <div align="center">
 
