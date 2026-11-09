@@ -33,7 +33,7 @@
 
 I build software that turns data into decisions and research into working systems — from FastAPI backends to machine learning pipelines.
 
-- 🎓 BS Software Engineering student at **National University of Modern Languages (NUML)** — *2023–2027* &nbsp;|&nbsp; GPA: **3.8 / 4.0**
+- 🎓 BS Software Engineering student at Last year **National University of Modern Languages (NUML)** — *2023–2027* &nbsp;|&nbsp; GPA: **3.79 / 4.0**
 - 📍 Based in Pakistan
 - 🧠 Focused on **Artificial Intelligence, Machine Learning, Backend Engineering & Intelligent Systems**
 - 💼 3 internships spanning **MarTech, Data Science, and Data Analysis**
