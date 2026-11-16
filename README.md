@@ -139,7 +139,7 @@ Full-featured e-learning platform with course management, progress tracking, and
 ### 🛡️ Linux IP Blocking & Monitoring System
 Network security automation tool that monitors traffic in real time and dynamically blocks malicious IPs using Linux firewall rules.
 
-**Tech:** Python · Linux · Firewall Automation
+**Tech:** Python · Linux · Firewall Automation · operating System 
 
 [![Repo](https://img.shields.io/badge/View-Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MianArslan09/Linux-IP-Blocking-Monitoring-System)
 
