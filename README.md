@@ -125,7 +125,7 @@ Machine learning system trained to detect fraudulent credit card transactions, d
 <td width="50%" valign="top">
 
 ### 🎓 Advanced E-Learning Platform
-Full-featured e-learning platform with course management, progress tracking, and an interactive dashboard.
+Full-featured e-learning platform with course management, progress tracking, and an interactive dashboard in streamlit framework.
 
 **Tech:** Streamlit · MySQL · Python
 
